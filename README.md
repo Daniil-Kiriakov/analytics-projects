@@ -1,2 +1,6 @@
 # analytics-projects
-1) Image_classification_sklearn
+1. Image_classification_sklearn
+   Анализ и распознавание лиц на фотографиях с помощью библиотеки sklearn. Перевод изображений в последовательность 
+   пикселей с дальнейшей обработкой.
+2. 
+   
