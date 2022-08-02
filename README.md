@@ -1,9 +1,9 @@
 # analytics-projects
 
-1. Clustering <br/>
+1. clustering <br/>
    Кластеризация ДТП по критериям.
    
-2. red_light <br/>
+2. red-light <br/>
    Определение проезда на запрещающий сигнал светофора.
 
 3. Image_classification_sklearn <br/>
