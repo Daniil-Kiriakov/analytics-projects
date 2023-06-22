@@ -1,1 +1,1 @@
-# Pet-, edu- and analytics projets
+# Pet-, edu- and analytics projeсts
